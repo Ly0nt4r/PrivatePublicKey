@@ -12,12 +12,14 @@ Ella es **Alice**
 Él es **Bob**
 ![pixlr-bg-result (1)](https://user-images.githubusercontent.com/87484792/171002990-cd7ce73a-ff1a-4cd0-b3aa-6b64c22f0752.png)
 
+##
 
 Alice tiene un secreto muy importante que quiere compartir con su amigo Bob, en ese mensaje, se va a filtrar información de alta importancia.
-
-![1whatsapp1](https://user-images.githubusercontent.com/87484792/171004356-12b6e8b1-d196-42f0-8cf0-9b7a5874dcd1.jpg)
 
 Alice sabe que Bob sabe guardar un secreto, y se fia plenamente en que ese secreto solo lo leerá él. ¿Pero y que pasaría si alguien interceptara el mensaje?
 Aqui es donde entra en juego la encriptación de mensajes, en este caso, la Criptografía asimétrica. 
 
-Aplicaciones cotidianas que usamos en el dia a dia, tal como WhatsApp, utilizan un cifrado de extremo a extremo. Este cifrado tambien denomiado "*E2E*", utiliza este principio de criptografia. 
+Aplicaciones cotidianas que usamos en el dia a dia, tal como WhatsApp, utilizan un cifrado de extremo a extremo. Este cifrado utiliza este principio de criptografia.
+
+##
+
