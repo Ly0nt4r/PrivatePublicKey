@@ -23,3 +23,6 @@ Aplicaciones cotidianas que usamos en el dia a dia, tal como WhatsApp, utilizan 
 
 ##
 
+# ¿Pero en que consiste este principio?
+
+Imaginemos que tenemos dos llaves, una llave actuará como sello y solamente la conocerá la persona la cual sea su dueño (Clave Privada); Por otro lado tenemos la llave la cual nos permite descifrar ese mensaje, la unica llave capaz de romper ese sello (Clave Pública). 
