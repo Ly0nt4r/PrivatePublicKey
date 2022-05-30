@@ -47,7 +47,7 @@ Alicia se dispone a contar el secreto a Bob, para ello, previamente han intercam
 ![pixlr-bg-result (2)](https://user-images.githubusercontent.com/87484792/171048802-7a9f8fd5-ba90-4d16-8448-3a225373739e.png)
 
 Carlos quiere hacerse con el secreto que guarda Alice, cree que puede interesarle. 
-Ahora Carlos sabe que si quiere hablar con Alice tendrá que usar La llave con el número **33**. Y que si quiere hablar con Bob tendrá que usar la llave con el número **77**.
+Ahora Carlos sabe que si quiere hablar con Alice tendrá que usar la llave con el número **33**. Y que si quiere hablar con Bob tendrá que usar la llave con el número **77**.
 
 
 
