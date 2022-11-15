@@ -2,7 +2,7 @@
 
 Saludos lectores.
 Hoy os vengo a explicar el concepto de criptografía asimétrica, un metodo criptografico donde se utilizan un par de claves (una privada y una publica) para la encriptación en envios de mensajes.
-Como siempre, me gusta explica todo con detalles y de forma abierta a todos los públicos, sin tantos "terminos tecnicos". 
+Como siempre, me gusta explica todo con detalles y de forma abierta a todos los públicos, sin tantos "terminos técnicos". 
 
 ## ¡Os presento a nuestros dos ayudantes de hoy!
 
